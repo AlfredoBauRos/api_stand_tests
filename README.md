@@ -108,3 +108,8 @@ Prueba 10: Creación de un/a usuario/a con un firstName de tipo numérico.
     user_body = get_user_body(12)
     response = sender_stand_request.post_new_user(user_body)
     assert response.status_code == 400
+
+
+
+al parecer todo bien hasta aqui :) texto agregado en el ejercicio 8 de 9 GIT
+probando probando pa que se guarde 
